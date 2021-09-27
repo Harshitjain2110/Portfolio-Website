@@ -3,8 +3,7 @@
 ***
 ## Deployment Link : 
 [https://harshitjain2110.github.io/Portfolio-Website/](https://harshitjain2110.github.io/Portfolio-Website/)
-
-! [Portfolio Website SS](Images/Portfolio website ss.png)
+<img src="Images/Portfolio website ss.png" alt="Portfolio">
 
 ## Built With
 * HTML
